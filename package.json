@@ -1,0 +1,11 @@
+{
+  "name": "url-query-parse",
+  "version": "0.9.0",
+  "description": "Parses a url query into key value pairs as well as some useful commands.",
+  "main": "urlParse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Metherall",
+  "license": "MIT"
+}
