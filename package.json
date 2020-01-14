@@ -1,7 +1,7 @@
 {
   "name": "url-query-parse",
-  "version": "0.9.0",
-  "description": "Parses a url query into key value pairs as well as some useful commands.",
+  "version": "0.9.1",
+  "description": "Takes an express req.query and returns a json of useful key: value pairs",
   "main": "urlParse.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
